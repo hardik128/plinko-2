@@ -10,7 +10,7 @@ var divisionHeight=300;
 var count,gameState,score,particle1;
 var score=0;
 var count=5;
-var gameState=2;
+var gameState=1;
 function setup() {
   var canvas = createCanvas(600,600);
   engine = Engine.create();
